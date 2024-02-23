@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YEGBaaVjsZXqkJ8x6i92/iHmWX7zfdjKDplzt5xIXoLTuRcOPIdx0IJ9XMLryzOKhUMykU/EH61CkH8IB3gJbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlo\\OneDrive - Eckersley O'Callaghan\\Documents\\0_Private\\repos\\CS-oxyplot-cominterop\\OxyPlot-COM-interop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlo\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
